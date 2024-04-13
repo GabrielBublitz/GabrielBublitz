@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hi, I'm Gabriel</h1>
-  <h4 align="center">Check out my <a href="https://gabrielbublitz.github.io/portfolio">Portifolio</a></h4>
+  <h4 align="center">Check out my <a target="_blank" href="https://gabrielbublitz.github.io/portfolio">Portifolio</a></h4>
   <div>
   <img align=top src="https://github-readme-stats.vercel.app/api?username=gabrielbublitz&theme=transparent&title_color=4ca660&hide_border=true&text_color=434d58"/>
 
